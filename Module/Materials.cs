@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +13,10 @@ namespace TimeExam.Module
         [Key]
         [Required]
         public int Id { get; set; }
-        public MaterialSuppliers materialsSuppliers { get; set; }
+
+        [ForeignKey("materialType")]
+        public int? MaterialTypeId { get; set; }
+        public string NameMaterial{ get; set; }
         public MaterialType materialType { get; set; }
 
         public decimal priceoneMaterial { get; set; }

@@ -20,11 +20,9 @@ C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\Microsoft.Extensio
 C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
 C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam.csproj.AssemblyReference.cache
-C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\MainWindow.g.cs
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\App.g.cs
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam_MarkupCompile.cache
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam_MarkupCompile.lref
-C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\MainWindow.baml
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam.g.resources
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam.AssemblyInfoInputs.cache
@@ -60,3 +58,14 @@ C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\runtimes\win-arm64
 C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\CsvHelper.dll
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam.sourcelink.json
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingProduct.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingTypeSuppliers.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\ItemPartners.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\MainWindow.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\Material.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingProduct.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingTypeSuppliers.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\ItemPartners.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\MainWindow.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\Material.baml
