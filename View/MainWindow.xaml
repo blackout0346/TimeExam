@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TimeExam"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#ABCFCE">
+        Title="Поставщики" Height="450" Width="800" Background="#ABCFCE">
     <Window.Resources>
 
         <Style TargetType="{x:Type TextBlock}"  >
@@ -39,15 +39,15 @@
             </RowDefinition>
         </Grid.RowDefinitions>
 
-
+ 
         <StackPanel Grid.Row="0" Orientation="Horizontal">
-            <Image  Source="/View/Мозаика.png"   Height="100" Width="100" HorizontalAlignment="Left" ></Image>
+            <Image x:Name="photo"  Height="100" Width="100" HorizontalAlignment="Left" Source="/Assets/Mozaikas.png" />
 
             <TextBlock  Text="Мозаика"  Margin="30"></TextBlock>
         </StackPanel>
         <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" >
             <TextBlock Text="Поиск:" Grid.Row="0" VerticalAlignment="Center"  ></TextBlock>
-            <TextBox x:Name="search" Grid.Row="0" Height="40" Width="200" Margin="20, 10"    ></TextBox>
+            <TextBox x:Name="search" Grid.Row="0" Height="40" Width="200" Margin="20, 10" TextChanged="search_TextChanged"    ></TextBox>
         </StackPanel>
 
         <ListBox x:Name="displayPartner" Grid.Row="1" >
@@ -60,12 +60,12 @@
             </ListBox.ItemContainerStyle>
         </ListBox>
         <StackPanel Grid.Row="2" Grid.Column="1"  Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Left" >
-            <Button   Margin="10" Foreground="White" Content="Добавить" Background="#546F94" Click="Button_Click"  ></Button>
-            <Button   Margin="10" Foreground="White" Content="Редактировать" Background="#546F94" Click="Button_Click_1"  ></Button>
-            <Button   Margin="10" Foreground="White" Content="Продукция" Background="#546F94" Click="Button_Click_2" ></Button>
-            <Button   Margin="10" Foreground="White" Content="История продаж" Background="#546F94" Click="Button_Click_3" ></Button>
-            <Button   Margin="10" Foreground="White" Content="Удалить" Background="#546F94" Click="Button_Click_4"></Button>
-            <Button   Margin="10" Foreground="White" Content="Обновить" Background="#546F94" Click="Button_Click_5"></Button>
+            <Button   Margin="10" Foreground="White" Content="Добавить" Background="#546F94" Click="Button_Click_2"   ></Button>
+            <Button   Margin="10" Foreground="White" Content="Редактировать" Background="#546F94" Click="Button_Click_4"  ></Button>
+            <Button   Margin="10" Foreground="White" Content="Продукция" Background="#546F94" Click="Button_Click_3"  ></Button>
+
+            <Button   Margin="10" Foreground="White" Content="Удалить" Background="#546F94" Click="Button_Click_1" ></Button>
+            <Button   Margin="10" Foreground="White" Content="Обновить" Background="#546F94" Click="Button_Click_5" ></Button>
 
         </StackPanel>
 

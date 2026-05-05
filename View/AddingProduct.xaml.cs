@@ -33,36 +33,31 @@ namespace secondExam.View
         void AddProduct()
         {
             db = new appDbContext();
-        
+
+            var type = new MaterialType() { TypeMaterial = typesProduct.Text };
+            var materials = new Materials() { materialType = type, NameMaterial = NameMaterial.Text, countInBox = int.Parse(countmaterial.Text), count = int.Parse(countstorage.Text), minCount = decimal.Parse(MinPrice.Text), priceoneMaterial = decimal.Parse(priceOne.Text), unitofmeasurement = edChange.Text };
+            db.AddRange(materials);
+            db.SaveChanges();
+
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            if (
-           !string.IsNullOrEmpty(MinPrice.Text) ||
-           !string.IsNullOrEmpty(NameProduct.Text) ||
-           !string.IsNullOrEmpty(TypeProduct.Text)
-     )
-            {
-                MessageBox.Show("Успешно добавлен");
-                AddProduct();
-                TypeProduct.Text = "";
-                MinPrice.Text = "";
-       
-                NameProduct.Text = "";
-              
-                return;
-            }
-            else
-            {
-                MessageBox.Show("Заполните поля");
-            }
-        }
-
-      
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             this.Close();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                MessageBox.Show("Успешно добавлено!");
+                AddProduct();
+            }
+            catch (Exception ex)
+            {
+
+            }
+
         }
     }
 }

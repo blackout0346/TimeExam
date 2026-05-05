@@ -216,11 +216,11 @@ namespace TimeExam
           
                             continue;
                         }
-                        var execute = Db.TypeSuppliers.FirstOrDefault(f => f.Name == item.Name || f.PostavshickTypeId == postav.Id);
+                        var execute = Db.TypeSuppliers.FirstOrDefault(f=> f.PostavshickTypeId == postav.Id);
                         if (execute != null)
                             continue;
 
-                        var typeSuppliers = new TypeSuppliers() { PostavshickTypeId = postav.Id,  Name = item.Name, INN = item.INN, Rate = item.Rate, startWork = item.startWork, TypeOrgId = typeOrg.Id };
+                        var typeSuppliers = new TypeSuppliers() { PostavshickTypeId = postav.Id,   INN = item.INN, Rate = item.Rate, startWork = item.startWork, TypeOrgId = typeOrg.Id };
 
                         Db.TypeSuppliers.Add(typeSuppliers);
 

@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using secondExam.View;
+using System.Diagnostics;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -11,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using TimeExam.Module;
+using TimeExam.View;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 namespace TimeExam
 {
@@ -25,11 +28,14 @@ namespace TimeExam
 
 
             db = new appDbContext();
-            db.Database.EnsureDeleted();
-            db.Database.EnsureCreated();
+            //db.Database.EnsureDeleted();
+            //db.Database.EnsureCreated();
+
             InitializeComponent();
-            //Uri iconUri = new Uri("Mozaika.ico", UriKind.RelativeOrAbsolute);
-            //this.Icon = BitmapFrame.Create(iconUri);
+            Uri iconUri = new Uri("Mozaika.ico", UriKind.RelativeOrAbsolute);
+            this.Icon = BitmapFrame.Create(iconUri);
+            search.TextChanged += search_TextChanged;
+
             loadingAll();
         }
         async void loadingAll()
@@ -45,17 +51,19 @@ namespace TimeExam
 
         async Task Selected()
         {
-            var query = db.TypeSuppliers.Include(P => P.typeOrg).AsQueryable();
+            displayPartner.Items.Clear();
+            var query = db.TypeSuppliers.Include(P => P.typeOrg).Include(p=>p.postavshickType).AsQueryable();
 
             if (!string.IsNullOrWhiteSpace(search.Text.ToLower()))
             {
-                query = query.Where(p => EF.Functions.Like(p.Name, $"%{search.Text}%"));
+                query = query.Where(p => EF.Functions.Like(p.postavshickType.Name, $"%{search.Text}%"));
             }
 
             var results = await query.ToListAsync();
+         
             foreach (var item in results)
             {
-                ItemPartners itemPartners = new ItemPartners(item.Id, item.typeOrg.Name, item.Name, item.INN, item.Rate ,item.startWork.ToString());
+                ItemSuppliers itemPartners = new ItemSuppliers(item.Id, item.typeOrg.Name, item.postavshickType.Name, item.INN, item.Rate ,item.startWork);
                 displayPartner.Items.Add(itemPartners);
             }
         }
@@ -81,30 +89,65 @@ namespace TimeExam
             typeSuppliers.Show();
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private async void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            var selectedItems = displayPartner.SelectedItems;
+            if (selectedItems.Count == 0)
+            {
+                return;
+            }
+            foreach (var item in selectedItems)
+            {
+                var itemsupl = item as ItemSuppliers;
 
+                if (itemsupl != null)
+                {
+                    var supl = await db.TypeSuppliers.FindAsync(itemsupl.SuppliersId);
+                    if (supl != null)
+                    {
+                        db.TypeSuppliers.Remove(supl);
+                    }
+
+                }
+
+            }
+            db.SaveChanges();
+            await Selected();
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void Button_Click_3(object sender, RoutedEventArgs e)
         {
             Material material = new Material();
             material.Show();
         }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
+        private void Button_Click_2(object sender, RoutedEventArgs e)
         {
+            AddingTypeSuppliers addingTypeSuppliers = new AddingTypeSuppliers();
+            addingTypeSuppliers.Show();
+        }
+
+        private async void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            var selectedItems = displayPartner.SelectedItem as ItemSuppliers;
+            if (selectedItems == null)
+            {
+                return;
+            }
+            var suppliers= await db.TypeSuppliers.Include(p => p.postavshickType).FirstOrDefaultAsync(p=> p.Id == selectedItems.SuppliersId);
+            EditSuppliers editSuppliers = new EditSuppliers(suppliers);
+            editSuppliers.Show();
 
         }
 
-        private void Button_Click_4(object sender, RoutedEventArgs e)
+        private async void Button_Click_5(object sender, RoutedEventArgs e)
         {
-
+            await Selected();
         }
 
-        private void Button_Click_5(object sender, RoutedEventArgs e)
+        private void search_TextChanged(object sender, TextChangedEventArgs e)
         {
-
+            Dispatcher.Invoke(() => Selected());
         }
     }
 }

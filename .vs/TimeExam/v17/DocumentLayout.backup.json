@@ -11,91 +11,36 @@
       "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\addingtypesuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\addingtypesuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\itemsuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\itemsuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\editsuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\editsuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\editmaterial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\editmaterial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\addingproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\addingproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\addingproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\addingproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\addingtypesuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\addingtypesuppliers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\addingtypesuppliers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\addingtypesuppliers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\assets\\mozaikas.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:assets\\mozaikas.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\material.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\material.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\itempartners.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\itempartners.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smira\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\itempartners.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\itempartners.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\mozaika.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\mozaika.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\\u043C\u043E\u0437\u0430\u0438\u043A\u0430.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\\u043C\u043E\u0437\u0430\u0438\u043A\u0430.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\typesuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\typesuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\typeorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\typeorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\postavshicktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\postavshicktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\materialsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\materialsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\materialtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\materialtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\module\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:module\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|c:\\users\\smira\\source\\repos\\timeexam\\view\\material.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F87E10D-4A3C-4EAE-9FBC-D45B83CC5CC3}|TimeExam.csproj|solutionrelative:view\\material.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -104,8 +49,8 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 111,
-          "SelectedChildIndex": 16,
+          "DockedWidth": 149,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -132,118 +77,55 @@
               "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditSuppliers.xaml",
+              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\EditSuppliers.xaml",
+              "RelativeDocumentMoniker": "View\\EditSuppliers.xaml",
+              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\EditSuppliers.xaml",
+              "RelativeToolTip": "View\\EditSuppliers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T17:11:38.807Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-05T06:56:37.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\smira\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACcAAAAEAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T06:56:31.265Z",
-              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AddingTypeSuppliers.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingTypeSuppliers.xaml.cs",
-              "RelativeDocumentMoniker": "View\\AddingTypeSuppliers.xaml.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingTypeSuppliers.xaml.cs",
-              "RelativeToolTip": "View\\AddingTypeSuppliers.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T06:47:03.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddingTypeSuppliers.xaml",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingTypeSuppliers.xaml",
-              "RelativeDocumentMoniker": "View\\AddingTypeSuppliers.xaml",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingTypeSuppliers.xaml",
-              "RelativeToolTip": "View\\AddingTypeSuppliers.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-05T06:46:46.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddingProduct.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingProduct.xaml.cs",
-              "RelativeDocumentMoniker": "View\\AddingProduct.xaml.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingProduct.xaml.cs",
-              "RelativeToolTip": "View\\AddingProduct.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T06:40:28.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Mozaika.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Mozaika.ico",
-              "RelativeDocumentMoniker": "View\\Mozaika.ico",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Mozaika.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
-              "RelativeToolTip": "View\\Mozaika.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2026-05-05T06:39:38.932Z",
-              "EditorCaption": " - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AddingProduct.xaml",
               "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingProduct.xaml",
               "RelativeDocumentMoniker": "View\\AddingProduct.xaml",
               "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingProduct.xaml",
               "RelativeToolTip": "View\\AddingProduct.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-05T06:33:30.892Z",
+              "WhenOpened": "2026-05-05T17:10:22.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430.png",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430.png",
-              "RelativeDocumentMoniker": "View\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430.png",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430.png",
-              "RelativeToolTip": "View\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-05-05T06:19:30.083Z"
+              "DocumentIndex": 6,
+              "Title": "AddingTypeSuppliers.xaml",
+              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingTypeSuppliers.xaml",
+              "RelativeDocumentMoniker": "View\\AddingTypeSuppliers.xaml",
+              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\AddingTypeSuppliers.xaml",
+              "RelativeToolTip": "View\\AddingTypeSuppliers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T17:09:50.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Material.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Material.xaml.cs",
-              "RelativeDocumentMoniker": "View\\Material.xaml.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Material.xaml.cs",
-              "RelativeToolTip": "View\\Material.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T06:15:18.189Z",
+              "DocumentIndex": 4,
+              "Title": "EditMaterial.xaml",
+              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\EditMaterial.xaml",
+              "RelativeDocumentMoniker": "View\\EditMaterial.xaml",
+              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\EditMaterial.xaml",
+              "RelativeToolTip": "View\\EditMaterial.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T17:09:36.383Z",
               "EditorCaption": ""
             },
             {
@@ -255,45 +137,57 @@
               "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Material.xaml",
               "RelativeToolTip": "View\\Material.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-05T06:13:27.915Z",
+              "WhenOpened": "2026-05-05T17:09:27.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItemPartners.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\ItemPartners.xaml.cs",
-              "RelativeDocumentMoniker": "View\\ItemPartners.xaml.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\ItemPartners.xaml.cs",
-              "RelativeToolTip": "View\\ItemPartners.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T06:01:13.308Z",
+              "DocumentIndex": 2,
+              "Title": "ItemSuppliers.xaml",
+              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\ItemSuppliers.xaml",
+              "RelativeDocumentMoniker": "View\\ItemSuppliers.xaml",
+              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\ItemSuppliers.xaml",
+              "RelativeToolTip": "View\\ItemSuppliers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T17:02:31.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ItemPartners.xaml",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\ItemPartners.xaml",
-              "RelativeDocumentMoniker": "View\\ItemPartners.xaml",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\ItemPartners.xaml",
-              "RelativeToolTip": "View\\ItemPartners.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-05T06:00:47.297Z",
+              "Title": "Mozaikas.png",
+              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Assets\\Mozaikas.png",
+              "RelativeDocumentMoniker": "Assets\\Mozaikas.png",
+              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Assets\\Mozaikas.png",
+              "RelativeToolTip": "Assets\\Mozaikas.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-05T17:02:18.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\MainWindow.xaml.cs",
               "RelativeToolTip": "View\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T04:47:52.182Z",
+              "WhenOpened": "2026-05-05T16:55:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Material.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Material.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Material.xaml.cs",
+              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\View\\Material.xaml.cs",
+              "RelativeToolTip": "View\\Material.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:54:59.717Z",
               "EditorCaption": ""
             },
             {
@@ -306,129 +200,6 @@
               "RelativeToolTip": "View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-05T04:34:13.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PostavshickType.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\PostavshickType.cs",
-              "RelativeDocumentMoniker": "Module\\PostavshickType.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\PostavshickType.cs",
-              "RelativeToolTip": "Module\\PostavshickType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T04:23:06.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\appDbContext.cs",
-              "RelativeDocumentMoniker": "appDbContext.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\appDbContext.cs",
-              "RelativeToolTip": "appDbContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwDIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T04:01:34.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TypeOrg.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\TypeOrg.cs",
-              "RelativeDocumentMoniker": "Module\\TypeOrg.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\TypeOrg.cs",
-              "RelativeToolTip": "Module\\TypeOrg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T04:00:37.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductType.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\ProductType.cs",
-              "RelativeDocumentMoniker": "Module\\ProductType.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\ProductType.cs",
-              "RelativeToolTip": "Module\\ProductType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:59:16.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TypeSuppliers.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\TypeSuppliers.cs",
-              "RelativeDocumentMoniker": "Module\\TypeSuppliers.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\TypeSuppliers.cs",
-              "RelativeToolTip": "Module\\TypeSuppliers.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:57:53.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Materials.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\Materials.cs",
-              "RelativeDocumentMoniker": "Module\\Materials.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\Materials.cs",
-              "RelativeToolTip": "Module\\Materials.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:57:18.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MaterialSuppliers.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\MaterialSuppliers.cs",
-              "RelativeDocumentMoniker": "Module\\MaterialSuppliers.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\MaterialSuppliers.cs",
-              "RelativeToolTip": "Module\\MaterialSuppliers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:57:14.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MaterialType.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\MaterialType.cs",
-              "RelativeDocumentMoniker": "Module\\MaterialType.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Module\\MaterialType.cs",
-              "RelativeToolTip": "Module\\MaterialType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:57:13.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:57:11.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Parse.cs",
-              "DocumentMoniker": "C:\\Users\\smira\\source\\repos\\TimeExam\\Parse.cs",
-              "RelativeDocumentMoniker": "Parse.cs",
-              "ToolTip": "C:\\Users\\smira\\source\\repos\\TimeExam\\Parse.cs",
-              "RelativeToolTip": "Parse.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAawN4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:57:09.28Z",
               "EditorCaption": ""
             }
           ]

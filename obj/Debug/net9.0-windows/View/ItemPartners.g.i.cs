@@ -39,7 +39,7 @@ namespace secondExam.View {
     /// <summary>
     /// ItemPartners
     /// </summary>
-    public partial class ItemPartners : System.Windows.Controls.UserControl, System.Windows.Markup.IComponentConnector {
+    public partial class ItemSuppliers : System.Windows.Controls.UserControl, System.Windows.Markup.IComponentConnector {
         
         
         #line 37 "..\..\..\..\View\ItemPartners.xaml"

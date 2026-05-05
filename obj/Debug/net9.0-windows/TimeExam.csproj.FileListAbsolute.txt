@@ -61,11 +61,15 @@ C:\Users\smira\source\repos\TimeExam\bin\Debug\net9.0-windows\CsvHelper.dll
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\TimeExam.sourcelink.json
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingProduct.g.cs
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingTypeSuppliers.g.cs
-C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\ItemPartners.g.cs
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\MainWindow.g.cs
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\Material.g.cs
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingProduct.baml
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\AddingTypeSuppliers.baml
-C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\ItemPartners.baml
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\MainWindow.baml
 C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\Material.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\EditMaterial.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\EditSuppliers.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\EditMaterial.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\EditSuppliers.baml
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\ItemSuppliers.g.cs
+C:\Users\smira\source\repos\TimeExam\obj\Debug\net9.0-windows\View\ItemSuppliers.baml

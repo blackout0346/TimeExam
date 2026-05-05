@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TimeExam.Module
 {
-    class Materials
+   public class Materials
     {
         [Key]
         [Required]

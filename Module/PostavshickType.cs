@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TimeExam.Module
 {
-    internal class PostavshickType
+    public class PostavshickType
     {
         [Key]
         public int Id { get; set; }

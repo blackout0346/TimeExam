@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\smira\source\repos\TimeExam\App.xaml
-51856877110
+7-1454290542
 
-19778219097
+211157043905
 2191952309211
-View\AddingProduct.xaml;View\AddingTypeSuppliers.xaml;View\ItemPartners.xaml;View\MainWindow.xaml;View\Material.xaml;
+View\AddingProduct.xaml;View\AddingTypeSuppliers.xaml;View\EditMaterial.xaml;View\EditSuppliers.xaml;View\ItemSuppliers.xaml;View\MainWindow.xaml;View\Material.xaml;
 
-False
+True
 

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TimeExam.Module
 {
-    internal class TypeOrg
+    public class TypeOrg
     {
         [Key]
         public int Id {  get; set; }

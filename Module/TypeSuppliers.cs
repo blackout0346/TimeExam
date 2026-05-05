@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 
 namespace TimeExam.Module
 {
-     class TypeSuppliers
+     public class TypeSuppliers
     {
         [Key]
         public int Id { get; set; }
         [ForeignKey("typeOrg")]
         public int TypeOrgId { get; set; }
-        public string Name { get; set; }
+
 
        
 
